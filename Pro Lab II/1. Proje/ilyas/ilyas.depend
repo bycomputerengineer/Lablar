@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489000868 source:c:\users\ilyas mammadov\desktop\pro lab ii 1. proje\ilyas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+

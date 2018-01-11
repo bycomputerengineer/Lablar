@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489567927 source:c:\users\ilyas mammadov\desktop\pro lab ii 1. proje\dilay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

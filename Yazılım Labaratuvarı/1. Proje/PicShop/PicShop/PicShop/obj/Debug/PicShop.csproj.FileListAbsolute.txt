@@ -1,0 +1,10 @@
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\bin\Debug\PicShop.exe.config
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\bin\Debug\PicShop.exe
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\bin\Debug\PicShop.pdb
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.csprojResolveAssemblyReference.cache
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.Form1.resources
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.Properties.Resources.resources
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.csproj.GenerateResource.Cache
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.exe
+C:\Users\ILYAS MAMMADOV\Desktop\PicShop\PicShop\PicShop\obj\Debug\PicShop.pdb

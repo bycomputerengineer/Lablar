@@ -1,0 +1,2 @@
+alter table musteriler
+add constraint sehir_kodu foreign key(sehir) references sehirler(s_kodu) on delete cascade

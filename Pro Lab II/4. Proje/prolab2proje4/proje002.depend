@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1494925331 source:c:\users\ilyas mammadov\desktop\prolab 2 proje 4\proje002\main.c
+	<stdio.h>
+	<winsock2.h>
+	<mysql-connector-c-6.1.10-winx64\include\mysql.h>
+
+1495449818 source:c:\users\ilyas mammadov\desktop\proje002\main.c
+	<stdio.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<mysql-connector-c-6.1.10-winx64\include\mysql.h>
+
+1495577402 source:c:\users\ilyas mammadov\desktop\proje002 - kopya\main.c
+	<stdio.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<mysql-connector-c-6.1.10-winx64\include\mysql.h>
+

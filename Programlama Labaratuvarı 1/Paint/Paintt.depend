@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476899449 source:c:\users\Ýlyas\desktop\paintt\main.cpp
+	<graphics.h>
+
+1478257633 source:c:\users\Ýlyas\desktop\paint\main.cpp
+	<graphics.h>
+	<math.h>
+

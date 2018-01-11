@@ -1,0 +1,110 @@
+header{
+	height: 300px;
+	width: 100%;
+	padding: 50px;
+	background-color: #ccff99;
+}
+
+header img{
+	display: block;
+	margin: auto;
+	height: 200px;
+}
+
+footer{
+	margin-top: 200px;
+	background-color: #ccff99;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******AŞAMA 1********/
+#asama1{
+	margin-top: 50px;
+}
+
+#asama1 input{
+	float: left;
+	margin-right: 5px;
+	height: 40px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #ccff99;
+}
+
+#asama1 button{
+	margin-left: 5px;
+	height: 40px;
+	width: 13%;
+	border-radius: 10px;
+	background-color: #0066ff;
+}
+
+#asama1 button:hover{
+	background-color: #009933;
+}
+
+#asama1 h2{
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding: 30px;
+	margin-top: 200px;
+	height: 100px;
+	width: 300px;
+	border-radius: 20px;
+	background-color: #0066ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** AŞAMA 2-3 ********/
+.tab-content div input{
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 40px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #ccff99;
+}
+
+.tab-content div button{
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: #0066ff;
+}
+
+.tab-content div button:hover{
+	background-color: #009933;
+}

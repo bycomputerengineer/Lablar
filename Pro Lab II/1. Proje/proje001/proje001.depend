@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489582519 source:c:\users\ilyas mammadov\desktop\pro lab ii 1. proje\proje001\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+
